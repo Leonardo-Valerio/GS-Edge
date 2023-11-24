@@ -24,6 +24,7 @@ Conclusão:
 Este protótipo de monitoramento ambiental baseado em Arduino revoluciona a abordagem ao atendimento emergencial, integrando a conscientização ambiental.
 Capacitar as pessoas com dados em tempo real fomenta uma mentalidade proativa, contribuindo para um estilo de vida mais seguro e saudável.
 
+link do protótipo para simulação: https://wokwi.com/projects/379058999451712513
 
 link do vídeo do protótipo funcionando: https://www.loom.com/share/a9e0c20f1547488fa027cd721898ca89?sid=fe9bd611-73a5-42bf-85b1-fef444f7aee9 
 
