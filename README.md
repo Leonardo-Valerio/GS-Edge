@@ -1,6 +1,6 @@
-# arduino
-arduino que mede temperatura e umidade do ar
- Aprimorando o Atendimento Personalizado em Emergências com Monitoramento Ambiental
+# Arduino que mede temperatura e umidade do ar
+
+Aprimorando o Atendimento Personalizado em Emergências com Monitoramento Ambiental
 
 Introdução:
 Na busca por aprimorar o atendimento emergencial personalizado, foi desenvolvido um protótipo Arduino baseado na web para medir a temperatura ambiente e umidade. 
@@ -25,6 +25,7 @@ Este protótipo de monitoramento ambiental baseado em Arduino revoluciona a abor
 Capacitar as pessoas com dados em tempo real fomenta uma mentalidade proativa, contribuindo para um estilo de vida mais seguro e saudável.
 
 
+link do vídeo do protótipo funcionando: https://www.loom.com/share/a9e0c20f1547488fa027cd721898ca89?sid=fe9bd611-73a5-42bf-85b1-fef444f7aee9 
 
 
 
